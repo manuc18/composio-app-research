@@ -1,22 +1,62 @@
 {
-  "apps": 5,
-  "verified": 0,
-  "needs_review": 0,
+  "apps": 100,
+  "verified": 91,
+  "needs_review": 9,
   "conflicts": 0,
-  "unknown": 5,
-  "average_confidence": 0.5119999999999999,
+  "unknown": 0,
+  "average_confidence": 0.9566,
   "confidence_threshold": 0.9,
-  "manual_reviewed_count": 2,
-  "mcp_corrected_count": 5,
+  "manual_reviewed_count": 9,
+  "mcp_corrected_count": 10,
   "category_verification": {
     "CRM and Sales": {
-      "total": 5,
-      "verified": 0
+      "total": 10,
+      "verified": 10
+    },
+    "Support and Helpdesk": {
+      "total": 10,
+      "verified": 10
+    },
+    "Communications and Messaging": {
+      "total": 10,
+      "verified": 10
+    },
+    "Marketing, Ads, Email and Social": {
+      "total": 10,
+      "verified": 9
+    },
+    "Ecommerce": {
+      "total": 10,
+      "verified": 9
+    },
+    "Data, SEO and Scraping": {
+      "total": 10,
+      "verified": 7
+    },
+    "Developer, Infra and Data platforms": {
+      "total": 10,
+      "verified": 10
+    },
+    "Productivity and Project Management": {
+      "total": 10,
+      "verified": 10
+    },
+    "Finance and Fintech": {
+      "total": 10,
+      "verified": 8
+    },
+    "AI, Research and Media-native": {
+      "total": 10,
+      "verified": 8
     }
   },
   "verification_methods": {
     "research_agent": "Automated web scraping and extraction",
     "verifier_agent": "Evidence-based verification and scoring",
     "human_review": "Manual queue for edge cases"
+  },
+  "composio_availability": {
+    "total_on_composio": 21,
+    "not_on_composio": 79
   }
 }

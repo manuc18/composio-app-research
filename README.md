@@ -77,12 +77,12 @@ research/
 
 For the 100‑app run:
 
-- 83% verified.
-- 17% needs review.
-- 9% conflicts.
-- Average confidence: 91%.
-- 20 manual reviews.
-- 5 MCP status corrections after human review.
+- 91% verified.
+- 9% needs review.
+- 0% conflicts.
+- Average confidence: 95.66%.
+- Confidence threshold: 90%.
+- 10 MCP status corrections after human review.
 
 ---
 

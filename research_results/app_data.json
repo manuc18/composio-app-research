@@ -5,7 +5,10 @@
     "category": "CRM and Sales",
     "website": "salesforce.com",
     "hint": "Enterprise CRM",
-    "auth_methods": ["OAuth 2.0", "API Key"],
+    "auth_methods": [
+      "OAuth 2.0",
+      "API Key"
+    ],
     "auth_method_url": "https://help.salesforce.com/s/articleView?id=sf.remoteaccess_oauth_web_flow.htm",
     "self_serve": "Available",
     "documentation_url": "https://developer.salesforce.com/docs",
@@ -23,7 +26,9 @@
     "category": "CRM and Sales",
     "website": "hubspot.com",
     "hint": "Marketing/Sales/Service CRM",
-    "auth_methods": ["OAuth 2.0"],
+    "auth_methods": [
+      "OAuth 2.0"
+    ],
     "auth_method_url": "https://developers.hubspot.com/docs/guides/apps/authentication/api-usage-and-rate-limits",
     "self_serve": "Available",
     "documentation_url": "https://developers.hubspot.com/docs",
@@ -41,7 +46,10 @@
     "category": "CRM and Sales",
     "website": "pipedrive.com",
     "hint": "Sales CRM",
-    "auth_methods": ["API Key", "OAuth 2.0"],
+    "auth_methods": [
+      "API Key",
+      "OAuth 2.0"
+    ],
     "auth_method_url": "https://pipedrive.readme.io/docs/getting-started",
     "self_serve": "Available",
     "documentation_url": "https://pipedrive.readme.io/docs",
@@ -59,7 +67,9 @@
     "category": "CRM and Sales",
     "website": "attio.com",
     "hint": "Modern CRM",
-    "auth_methods": ["OAuth 2.0"],
+    "auth_methods": [
+      "OAuth 2.0"
+    ],
     "auth_method_url": "https://attio.readme.io/reference/getting-started",
     "self_serve": "Available",
     "documentation_url": "https://attio.readme.io/docs",
@@ -77,7 +87,9 @@
     "category": "CRM and Sales",
     "website": "twenty.com",
     "hint": "Open-source CRM",
-    "auth_methods": ["OAuth 2.0"],
+    "auth_methods": [
+      "OAuth 2.0"
+    ],
     "auth_method_url": "https://docs.twenty.com",
     "self_serve": "Available",
     "documentation_url": "https://docs.twenty.com",
@@ -95,7 +107,10 @@
     "category": "CRM and Sales",
     "website": "podio.com",
     "hint": "Work management",
-    "auth_methods": ["API Key", "OAuth 2.0"],
+    "auth_methods": [
+      "API Key",
+      "OAuth 2.0"
+    ],
     "auth_method_url": "https://developers.podio.com/authentication",
     "self_serve": "Available",
     "documentation_url": "https://developers.podio.com/docs",
@@ -113,7 +128,9 @@
     "category": "CRM and Sales",
     "website": "zoho.com/crm",
     "hint": "Zoho CRM",
-    "auth_methods": ["OAuth 2.0"],
+    "auth_methods": [
+      "OAuth 2.0"
+    ],
     "auth_method_url": "https://www.zoho.com/crm/developer/docs/api/v2/access-refresh.html",
     "self_serve": "Available",
     "documentation_url": "https://www.zoho.com/crm/developer/docs",
@@ -131,7 +148,10 @@
     "category": "CRM and Sales",
     "website": "close.com",
     "hint": "Sales CRM",
-    "auth_methods": ["API Key", "OAuth 2.0"],
+    "auth_methods": [
+      "API Key",
+      "OAuth 2.0"
+    ],
     "auth_method_url": "https://developer.close.com/authentication",
     "self_serve": "Available",
     "documentation_url": "https://developer.close.com/docs",
@@ -149,7 +169,10 @@
     "category": "CRM and Sales",
     "website": "copper.com",
     "hint": "Google CRM",
-    "auth_methods": ["API Key", "OAuth 2.0"],
+    "auth_methods": [
+      "API Key",
+      "OAuth 2.0"
+    ],
     "auth_method_url": "https://developers.copper.com",
     "self_serve": "Available",
     "documentation_url": "https://developers.copper.com/docs",
@@ -167,7 +190,9 @@
     "category": "CRM and Sales",
     "website": "api.docs.dealcloud.com",
     "hint": "Deal management",
-    "auth_methods": ["API Key"],
+    "auth_methods": [
+      "API Key"
+    ],
     "auth_method_url": "https://api.docs.dealcloud.com",
     "self_serve": "Enterprise Only",
     "documentation_url": "https://api.docs.dealcloud.com",
@@ -185,7 +210,10 @@
     "category": "Support and Helpdesk",
     "website": "zendesk.com",
     "hint": "Customer service",
-    "auth_methods": ["API Token", "OAuth 2.0"],
+    "auth_methods": [
+      "API Token",
+      "OAuth 2.0"
+    ],
     "auth_method_url": "https://developer.zendesk.com/api-reference/introduction/security-and-auth",
     "self_serve": "Available",
     "documentation_url": "https://developer.zendesk.com/api-reference/docs",
@@ -203,7 +231,9 @@
     "category": "Support and Helpdesk",
     "website": "intercom.com",
     "hint": "Customer messaging",
-    "auth_methods": ["OAuth 2.0"],
+    "auth_methods": [
+      "OAuth 2.0"
+    ],
     "auth_method_url": "https://developers.intercom.com/docs/build-an-integration/authentication",
     "self_serve": "Available",
     "documentation_url": "https://developers.intercom.com/docs",
@@ -221,7 +251,9 @@
     "category": "Support and Helpdesk",
     "website": "freshdesk.com",
     "hint": "Helpdesk",
-    "auth_methods": ["API Key"],
+    "auth_methods": [
+      "API Key"
+    ],
     "auth_method_url": "https://developers.freshdesk.com/api/introduction",
     "self_serve": "Available",
     "documentation_url": "https://developers.freshdesk.com/api",
@@ -239,7 +271,9 @@
     "category": "Support and Helpdesk",
     "website": "front.com",
     "hint": "Email management",
-    "auth_methods": ["OAuth 2.0"],
+    "auth_methods": [
+      "OAuth 2.0"
+    ],
     "auth_method_url": "https://developers.front.com/docs",
     "self_serve": "Available",
     "documentation_url": "https://developers.front.com/docs",
@@ -257,7 +291,9 @@
     "category": "Support and Helpdesk",
     "website": "usepylon.com",
     "hint": "B2B support",
-    "auth_methods": ["OAuth 2.0"],
+    "auth_methods": [
+      "OAuth 2.0"
+    ],
     "auth_method_url": "https://docs.usepylon.com/api-reference",
     "self_serve": "Available",
     "documentation_url": "https://docs.usepylon.com/api-reference",
@@ -275,7 +311,9 @@
     "category": "Support and Helpdesk",
     "website": "liveagent.com",
     "hint": "Live chat",
-    "auth_methods": ["API Key"],
+    "auth_methods": [
+      "API Key"
+    ],
     "auth_method_url": "https://www.ladesk.com/api-docs",
     "self_serve": "Available",
     "documentation_url": "https://www.ladesk.com/api-docs",
@@ -293,7 +331,10 @@
     "category": "Support and Helpdesk",
     "website": "plain.com",
     "hint": "Support platform",
-    "auth_methods": ["API Key", "OAuth 2.0"],
+    "auth_methods": [
+      "API Key",
+      "OAuth 2.0"
+    ],
     "auth_method_url": "https://docs.plain.com/docs/api-reference",
     "self_serve": "Available",
     "documentation_url": "https://docs.plain.com/docs/api-reference",
@@ -311,7 +352,9 @@
     "category": "Support and Helpdesk",
     "website": "helpscout.com",
     "hint": "Customer support",
-    "auth_methods": ["OAuth 2.0"],
+    "auth_methods": [
+      "OAuth 2.0"
+    ],
     "auth_method_url": "https://developer.helpscout.com/authentication",
     "self_serve": "Available",
     "documentation_url": "https://developer.helpscout.com/docs",
@@ -329,7 +372,9 @@
     "category": "Support and Helpdesk",
     "website": "gorgias.com",
     "hint": "Ecommerce support",
-    "auth_methods": ["OAuth 2.0"],
+    "auth_methods": [
+      "OAuth 2.0"
+    ],
     "auth_method_url": "https://developers.gorgias.com/docs/authentication",
     "self_serve": "Available",
     "documentation_url": "https://developers.gorgias.com/docs",
@@ -347,7 +392,9 @@
     "category": "Support and Helpdesk",
     "website": "gladly.com",
     "hint": "Customer service",
-    "auth_methods": ["OAuth 2.0"],
+    "auth_methods": [
+      "OAuth 2.0"
+    ],
     "auth_method_url": "https://developer.gladly.com/docs",
     "self_serve": "Available",
     "documentation_url": "https://developer.gladly.com/docs",
@@ -365,7 +412,9 @@
     "category": "Communications and Messaging",
     "website": "slack.com",
     "hint": "Team messaging",
-    "auth_methods": ["OAuth 2.0"],
+    "auth_methods": [
+      "OAuth 2.0"
+    ],
     "auth_method_url": "https://api.slack.com/authentication/oauth-v2",
     "self_serve": "Available",
     "documentation_url": "https://api.slack.com/docs",
@@ -383,7 +432,10 @@
     "category": "Communications and Messaging",
     "website": "twilio.com",
     "hint": "Communications API",
-    "auth_methods": ["API Key", "Auth Token"],
+    "auth_methods": [
+      "API Key",
+      "Auth Token"
+    ],
     "auth_method_url": "https://www.twilio.com/docs/usage/api",
     "self_serve": "Available",
     "documentation_url": "https://www.twilio.com/docs",
@@ -401,7 +453,9 @@
     "category": "Communications and Messaging",
     "website": "zoho.com/cliq",
     "hint": "Team chat",
-    "auth_methods": ["OAuth 2.0"],
+    "auth_methods": [
+      "OAuth 2.0"
+    ],
     "auth_method_url": "https://www.zoho.com/cliq/integrations/oauth.html",
     "self_serve": "Available",
     "documentation_url": "https://www.zoho.com/cliq/developer-docs",
@@ -419,7 +473,9 @@
     "category": "Communications and Messaging",
     "website": "open.larksuite.com",
     "hint": "Enterprise messaging",
-    "auth_methods": ["App ID/Secret"],
+    "auth_methods": [
+      "App ID/Secret"
+    ],
     "auth_method_url": "https://open.larksuite.com/document/server-docs/authentication",
     "self_serve": "Available",
     "documentation_url": "https://open.larksuite.com/document",
@@ -437,7 +493,9 @@
     "category": "Communications and Messaging",
     "website": "pumble.com",
     "hint": "Team chat",
-    "auth_methods": ["API Key"],
+    "auth_methods": [
+      "API Key"
+    ],
     "auth_method_url": "https://developers.pumble.com",
     "self_serve": "Available",
     "documentation_url": "https://developers.pumble.com/docs",
@@ -455,7 +513,9 @@
     "category": "Communications and Messaging",
     "website": "discord.com",
     "hint": "Community chat",
-    "auth_methods": ["Bot Token"],
+    "auth_methods": [
+      "Bot Token"
+    ],
     "auth_method_url": "https://discord.com/developers/docs/reference#authentication",
     "self_serve": "Available",
     "documentation_url": "https://discord.com/developers/docs",
@@ -473,7 +533,9 @@
     "category": "Communications and Messaging",
     "website": "core.telegram.org",
     "hint": "Messaging platform",
-    "auth_methods": ["Bot Token"],
+    "auth_methods": [
+      "Bot Token"
+    ],
     "auth_method_url": "https://core.telegram.org/bots/api#authorizing-your-bot",
     "self_serve": "Available",
     "documentation_url": "https://core.telegram.org/bots/api",
@@ -491,7 +553,9 @@
     "category": "Communications and Messaging",
     "website": "developers.facebook.com/docs/whatsapp",
     "hint": "Business messaging",
-    "auth_methods": ["API Token"],
+    "auth_methods": [
+      "API Token"
+    ],
     "auth_method_url": "https://developers.facebook.com/docs/whatsapp/cloud-api/get-started",
     "self_serve": "Available",
     "documentation_url": "https://developers.facebook.com/docs/whatsapp",
@@ -509,7 +573,10 @@
     "category": "Communications and Messaging",
     "website": "aircall.io",
     "hint": "Phone system",
-    "auth_methods": ["API Key", "OAuth 2.0"],
+    "auth_methods": [
+      "API Key",
+      "OAuth 2.0"
+    ],
     "auth_method_url": "https://developer.aircall.io/docs/getting-started",
     "self_serve": "Available",
     "documentation_url": "https://developer.aircall.io/docs",
@@ -527,7 +594,9 @@
     "category": "Communications and Messaging",
     "website": "developer.vonage.com",
     "hint": "Communications API",
-    "auth_methods": ["API Key"],
+    "auth_methods": [
+      "API Key"
+    ],
     "auth_method_url": "https://developer.vonage.com/en/getting-started",
     "self_serve": "Available",
     "documentation_url": "https://developer.vonage.com/en/api",
@@ -545,7 +614,9 @@
     "category": "Marketing, Ads, Email and Social",
     "website": "developers.google.com/google-ads",
     "hint": "Advertising platform",
-    "auth_methods": ["OAuth 2.0"],
+    "auth_methods": [
+      "OAuth 2.0"
+    ],
     "auth_method_url": "https://developers.google.com/google-ads/api/docs/concepts/overview",
     "self_serve": "Available",
     "documentation_url": "https://developers.google.com/google-ads/api/docs",
@@ -563,7 +634,9 @@
     "category": "Marketing, Ads, Email and Social",
     "website": "developers.facebook.com/docs/marketing-apis",
     "hint": "Facebook/Instagram ads",
-    "auth_methods": ["OAuth 2.0"],
+    "auth_methods": [
+      "OAuth 2.0"
+    ],
     "auth_method_url": "https://developers.facebook.com/docs/development/access-tokens",
     "self_serve": "Available",
     "documentation_url": "https://developers.facebook.com/docs/marketing-apis",
@@ -581,7 +654,9 @@
     "category": "Marketing, Ads, Email and Social",
     "website": "learn.microsoft.com/linkedin/marketing",
     "hint": "LinkedIn advertising",
-    "auth_methods": ["OAuth 2.0"],
+    "auth_methods": [
+      "OAuth 2.0"
+    ],
     "auth_method_url": "https://learn.microsoft.com/en-us/linkedin/marketing/community-management/quick-start",
     "self_serve": "Available",
     "documentation_url": "https://learn.microsoft.com/linkedin/marketing",
@@ -599,7 +674,9 @@
     "category": "Marketing, Ads, Email and Social",
     "website": "highlevel.stoplight.io",
     "hint": "Marketing automation",
-    "auth_methods": ["API Key"],
+    "auth_methods": [
+      "API Key"
+    ],
     "auth_method_url": "https://highlevel.stoplight.io",
     "self_serve": "Available",
     "documentation_url": "https://highlevel.stoplight.io",
@@ -617,7 +694,9 @@
     "category": "Marketing, Ads, Email and Social",
     "website": "mailchimp.com/developer",
     "hint": "Email marketing",
-    "auth_methods": ["API Key"],
+    "auth_methods": [
+      "API Key"
+    ],
     "auth_method_url": "https://mailchimp.com/developer/marketing/guides/quick-start",
     "self_serve": "Available",
     "documentation_url": "https://mailchimp.com/developer/marketing/api",
@@ -635,7 +714,10 @@
     "category": "Marketing, Ads, Email and Social",
     "website": "developers.klaviyo.com",
     "hint": "Email/SMS marketing",
-    "auth_methods": ["API Key", "Private Token"],
+    "auth_methods": [
+      "API Key",
+      "Private Token"
+    ],
     "auth_method_url": "https://developers.klaviyo.com/en/reference/api_overview",
     "self_serve": "Available",
     "documentation_url": "https://developers.klaviyo.com/en/docs",
@@ -653,7 +735,9 @@
     "category": "Marketing, Ads, Email and Social",
     "website": "systeme.io",
     "hint": "Funnel builder",
-    "auth_methods": ["API Key"],
+    "auth_methods": [
+      "API Key"
+    ],
     "auth_method_url": "https://systeme.io/api",
     "self_serve": "Available",
     "documentation_url": "https://systeme.io/api",
@@ -661,8 +745,8 @@
     "confidence_score": 0.85,
     "mcp_server": false,
     "verification_status": "needs_review",
-    "broken_link": true,
-    "broken_link_reason": "Documentation URL may have changed or is not accessible",
+    "broken_link": false,
+    "broken_link_reason": "",
     "notes": "Funnel builder with API Key authentication."
   },
   {
@@ -671,7 +755,9 @@
     "category": "Marketing, Ads, Email and Social",
     "website": "developers.pinterest.com",
     "hint": "Visual discovery",
-    "auth_methods": ["OAuth 2.0"],
+    "auth_methods": [
+      "OAuth 2.0"
+    ],
     "auth_method_url": "https://developers.pinterest.com/docs/api/v5/authentication",
     "self_serve": "Available",
     "documentation_url": "https://developers.pinterest.com/docs/api/v5",
@@ -689,7 +775,9 @@
     "category": "Marketing, Ads, Email and Social",
     "website": "developers.facebook.com/docs/threads",
     "hint": "Meta's text app",
-    "auth_methods": ["OAuth 2.0"],
+    "auth_methods": [
+      "OAuth 2.0"
+    ],
     "auth_method_url": "https://developers.facebook.com/docs/threads/getting-started",
     "self_serve": "Available",
     "documentation_url": "https://developers.facebook.com/docs/threads",
@@ -707,7 +795,9 @@
     "category": "Marketing, Ads, Email and Social",
     "website": "sendgrid.com",
     "hint": "Email API",
-    "auth_methods": ["API Key"],
+    "auth_methods": [
+      "API Key"
+    ],
     "auth_method_url": "https://docs.sendgrid.com/ui/account-and-settings/api-keys",
     "self_serve": "Available",
     "documentation_url": "https://docs.sendgrid.com/api-reference",
@@ -725,7 +815,10 @@
     "category": "Ecommerce",
     "website": "shopify.dev",
     "hint": "Ecommerce platform",
-    "auth_methods": ["OAuth 2.0", "Admin API"],
+    "auth_methods": [
+      "OAuth 2.0",
+      "Admin API"
+    ],
     "auth_method_url": "https://shopify.dev/docs/apps/auth/oauth",
     "self_serve": "Available",
     "documentation_url": "https://shopify.dev/docs",
@@ -743,7 +836,10 @@
     "category": "Ecommerce",
     "website": "woocommerce.com/document/woocommerce-rest-api",
     "hint": "WordPress ecommerce",
-    "auth_methods": ["API Key", "OAuth 2.0"],
+    "auth_methods": [
+      "API Key",
+      "OAuth 2.0"
+    ],
     "auth_method_url": "https://woocommerce.github.io/woocommerce-rest-api-docs",
     "self_serve": "Available",
     "documentation_url": "https://woocommerce.github.io/woocommerce-rest-api-docs",
@@ -761,7 +857,9 @@
     "category": "Ecommerce",
     "website": "developer.bigcommerce.com",
     "hint": "Ecommerce platform",
-    "auth_methods": ["OAuth 2.0"],
+    "auth_methods": [
+      "OAuth 2.0"
+    ],
     "auth_method_url": "https://developer.bigcommerce.com/docs/storefront/oauth",
     "self_serve": "Available",
     "documentation_url": "https://developer.bigcommerce.com/docs",
@@ -779,7 +877,9 @@
     "category": "Ecommerce",
     "website": "developer.salesforce.com/docs/commerce",
     "hint": "Enterprise ecommerce",
-    "auth_methods": ["OAuth 2.0"],
+    "auth_methods": [
+      "OAuth 2.0"
+    ],
     "auth_method_url": "https://developer.salesforce.com/docs/commerce",
     "self_serve": "Enterprise Only",
     "documentation_url": "https://developer.salesforce.com/docs/commerce",
@@ -797,7 +897,9 @@
     "category": "Ecommerce",
     "website": "developer.adobe.com/commerce",
     "hint": "Adobe Commerce",
-    "auth_methods": ["API Key"],
+    "auth_methods": [
+      "API Key"
+    ],
     "auth_method_url": "https://developer.adobe.com/commerce/webapi/get-started/authentication",
     "self_serve": "Available",
     "documentation_url": "https://developer.adobe.com/commerce/webapi",
@@ -815,7 +917,9 @@
     "category": "Ecommerce",
     "website": "developers.squarespace.com",
     "hint": "Website builder",
-    "auth_methods": ["API Key"],
+    "auth_methods": [
+      "API Key"
+    ],
     "auth_method_url": "https://developers.squarespace.com/reference/getting-started",
     "self_serve": "Available",
     "documentation_url": "https://developers.squarespace.com/reference",
@@ -833,7 +937,9 @@
     "category": "Ecommerce",
     "website": "api-docs.ecwid.com",
     "hint": "Ecommerce widgets",
-    "auth_methods": ["API Key"],
+    "auth_methods": [
+      "API Key"
+    ],
     "auth_method_url": "https://api-docs.ecwid.com/reference/getting-started",
     "self_serve": "Available",
     "documentation_url": "https://api-docs.ecwid.com",
@@ -851,7 +957,9 @@
     "category": "Ecommerce",
     "website": "gumroad.com/api",
     "hint": "Digital products",
-    "auth_methods": ["API Key"],
+    "auth_methods": [
+      "API Key"
+    ],
     "auth_method_url": "https://gumroad.com/api",
     "self_serve": "Available",
     "documentation_url": "https://gumroad.com/api",
@@ -869,7 +977,9 @@
     "category": "Ecommerce",
     "website": "developer-docs.amazon.com/sp-api",
     "hint": "Amazon marketplace",
-    "auth_methods": ["OAuth 2.0"],
+    "auth_methods": [
+      "OAuth 2.0"
+    ],
     "auth_method_url": "https://developer-docs.amazon.com/sp-api/register-app/",
     "self_serve": "Available",
     "documentation_url": "https://developer-docs.amazon.com/sp-api",
@@ -887,7 +997,9 @@
     "category": "Ecommerce",
     "website": "fanbasis.com",
     "hint": "Fan commerce",
-    "auth_methods": ["API Key"],
+    "auth_methods": [
+      "API Key"
+    ],
     "auth_method_url": "https://fanbasis.com/docs",
     "self_serve": "Available",
     "documentation_url": "https://fanbasis.com/docs",
@@ -895,8 +1007,8 @@
     "confidence_score": 0.85,
     "mcp_server": false,
     "verification_status": "needs_review",
-    "broken_link": true,
-    "broken_link_reason": "Public API documentation may not be available",
+    "broken_link": false,
+    "broken_link_reason": "",
     "notes": "Fan commerce platform with API Key authentication."
   },
   {
@@ -905,7 +1017,9 @@
     "category": "Data, SEO and Scraping",
     "website": "docs.dataforseo.com",
     "hint": "SEO data",
-    "auth_methods": ["API Key"],
+    "auth_methods": [
+      "API Key"
+    ],
     "auth_method_url": "https://docs.dataforseo.com/getting-started",
     "self_serve": "Available",
     "documentation_url": "https://docs.dataforseo.com",
@@ -923,7 +1037,9 @@
     "category": "Data, SEO and Scraping",
     "website": "seranking.com/api",
     "hint": "SEO platform",
-    "auth_methods": ["API Key"],
+    "auth_methods": [
+      "API Key"
+    ],
     "auth_method_url": "https://seranking.com/api/get-started.html",
     "self_serve": "Available",
     "documentation_url": "https://seranking.com/api",
@@ -941,7 +1057,9 @@
     "category": "Data, SEO and Scraping",
     "website": "ahrefs.com/api",
     "hint": "SEO tools",
-    "auth_methods": ["API Key"],
+    "auth_methods": [
+      "API Key"
+    ],
     "auth_method_url": "https://ahrefs.com/api/getting-started",
     "self_serve": "Available",
     "documentation_url": "https://ahrefs.com/api",
@@ -959,7 +1077,9 @@
     "category": "Data, SEO and Scraping",
     "website": "docs.mrscraper.com",
     "hint": "Web scraping",
-    "auth_methods": ["API Key"],
+    "auth_methods": [
+      "API Key"
+    ],
     "auth_method_url": "https://docs.mrscraper.com/getting-started",
     "self_serve": "Available",
     "documentation_url": "https://docs.mrscraper.com",
@@ -977,7 +1097,9 @@
     "category": "Data, SEO and Scraping",
     "website": "docs.apify.com",
     "hint": "Web scraping platform",
-    "auth_methods": ["API Key"],
+    "auth_methods": [
+      "API Key"
+    ],
     "auth_method_url": "https://docs.apify.com/api/v2",
     "self_serve": "Available",
     "documentation_url": "https://docs.apify.com",
@@ -995,7 +1117,9 @@
     "category": "Data, SEO and Scraping",
     "website": "firecrawl.dev",
     "hint": "Web crawling",
-    "auth_methods": ["API Key"],
+    "auth_methods": [
+      "API Key"
+    ],
     "auth_method_url": "https://firecrawl.dev/docs",
     "self_serve": "Available",
     "documentation_url": "https://firecrawl.dev/docs",
@@ -1003,8 +1127,8 @@
     "confidence_score": 0.97,
     "mcp_server": false,
     "verification_status": "needs_review",
-    "broken_link": true,
-    "broken_link_reason": "Documentation URL may not be publicly accessible",
+    "broken_link": false,
+    "broken_link_reason": "",
     "notes": "Web crawling API with API Key authentication."
   },
   {
@@ -1013,7 +1137,9 @@
     "category": "Data, SEO and Scraping",
     "website": "brightdata.com",
     "hint": "Data collection",
-    "auth_methods": ["API Key"],
+    "auth_methods": [
+      "API Key"
+    ],
     "auth_method_url": "https://brightdata.com/docs/getting-started",
     "self_serve": "Available",
     "documentation_url": "https://brightdata.com/docs",
@@ -1031,7 +1157,9 @@
     "category": "Data, SEO and Scraping",
     "website": "github.com/sherlock-project/sherlock",
     "hint": "Username search",
-    "auth_methods": ["N/A"],
+    "auth_methods": [
+      "N/A"
+    ],
     "auth_method_url": "https://github.com/sherlock-project/sherlock",
     "self_serve": "Available",
     "documentation_url": "https://github.com/sherlock-project/sherlock",
@@ -1049,7 +1177,9 @@
     "category": "Data, SEO and Scraping",
     "website": "waterfall.io",
     "hint": "Company intel",
-    "auth_methods": ["API Key"],
+    "auth_methods": [
+      "API Key"
+    ],
     "auth_method_url": "https://waterfall.io/docs",
     "self_serve": "Available",
     "documentation_url": "https://waterfall.io/docs",
@@ -1057,8 +1187,8 @@
     "confidence_score": 0.85,
     "mcp_server": false,
     "verification_status": "needs_review",
-    "broken_link": true,
-    "broken_link_reason": "Public API documentation may not be available",
+    "broken_link": false,
+    "broken_link_reason": "",
     "notes": "Company intelligence platform with API Key authentication."
   },
   {
@@ -1067,7 +1197,9 @@
     "category": "Data, SEO and Scraping",
     "website": "clay.com",
     "hint": "Data enrichment",
-    "auth_methods": ["API Key"],
+    "auth_methods": [
+      "API Key"
+    ],
     "auth_method_url": "https://clay.com/docs",
     "self_serve": "Available",
     "documentation_url": "https://clay.com/docs",
@@ -1085,7 +1217,9 @@
     "category": "Developer, Infra and Data platforms",
     "website": "docs.github.com/rest",
     "hint": "Code hosting",
-    "auth_methods": ["OAuth 2.0"],
+    "auth_methods": [
+      "OAuth 2.0"
+    ],
     "auth_method_url": "https://docs.github.com/en/apps/oauth-apps/building-oauth-apps/authorizing-oauth-apps",
     "self_serve": "Available",
     "documentation_url": "https://docs.github.com/rest",
@@ -1103,7 +1237,9 @@
     "category": "Developer, Infra and Data platforms",
     "website": "vercel.com/docs/rest-api",
     "hint": "Deployment platform",
-    "auth_methods": ["API Token"],
+    "auth_methods": [
+      "API Token"
+    ],
     "auth_method_url": "https://vercel.com/docs/security/tokens",
     "self_serve": "Available",
     "documentation_url": "https://vercel.com/docs/rest-api",
@@ -1121,7 +1257,9 @@
     "category": "Developer, Infra and Data platforms",
     "website": "docs.netlify.com/api",
     "hint": "Web deployment",
-    "auth_methods": ["Personal Access Token"],
+    "auth_methods": [
+      "Personal Access Token"
+    ],
     "auth_method_url": "https://docs.netlify.com/api/get-started",
     "self_serve": "Available",
     "documentation_url": "https://docs.netlify.com/api",
@@ -1139,7 +1277,9 @@
     "category": "Developer, Infra and Data platforms",
     "website": "developers.cloudflare.com/api",
     "hint": "CDN/Edge platform",
-    "auth_methods": ["API Key"],
+    "auth_methods": [
+      "API Key"
+    ],
     "auth_method_url": "https://developers.cloudflare.com/fundamentals/api/get-started/keys",
     "self_serve": "Available",
     "documentation_url": "https://developers.cloudflare.com/api",
@@ -1157,7 +1297,9 @@
     "category": "Developer, Infra and Data platforms",
     "website": "supabase.com/docs",
     "hint": "Firebase alternative",
-    "auth_methods": ["API Key"],
+    "auth_methods": [
+      "API Key"
+    ],
     "auth_method_url": "https://supabase.com/docs/guides/auth/api-keys",
     "self_serve": "Available",
     "documentation_url": "https://supabase.com/docs",
@@ -1175,7 +1317,9 @@
     "category": "Developer, Infra and Data platforms",
     "website": "neo4j.com/docs/api",
     "hint": "Graph database",
-    "auth_methods": ["Basic Auth"],
+    "auth_methods": [
+      "Basic Auth"
+    ],
     "auth_method_url": "https://neo4j.com/docs/http-api-docs/current/authentication",
     "self_serve": "Available",
     "documentation_url": "https://neo4j.com/docs/api",
@@ -1193,7 +1337,9 @@
     "category": "Developer, Infra and Data platforms",
     "website": "docs.snowflake.com",
     "hint": "Data warehouse",
-    "auth_methods": ["Key Pair Auth"],
+    "auth_methods": [
+      "Key Pair Auth"
+    ],
     "auth_method_url": "https://docs.snowflake.com/en/user-guide/key-pair-auth",
     "self_serve": "Available",
     "documentation_url": "https://docs.snowflake.com",
@@ -1211,7 +1357,9 @@
     "category": "Developer, Infra and Data platforms",
     "website": "mongodb.com/docs/atlas/api",
     "hint": "Cloud database",
-    "auth_methods": ["API Key"],
+    "auth_methods": [
+      "API Key"
+    ],
     "auth_method_url": "https://www.mongodb.com/docs/atlas/configure-api-access",
     "self_serve": "Available",
     "documentation_url": "https://mongodb.com/docs/atlas/api",
@@ -1229,7 +1377,9 @@
     "category": "Developer, Infra and Data platforms",
     "website": "docs.datadoghq.com/api",
     "hint": "Monitoring",
-    "auth_methods": ["API Key"],
+    "auth_methods": [
+      "API Key"
+    ],
     "auth_method_url": "https://docs.datadoghq.com/account_management/api-app-keys",
     "self_serve": "Available",
     "documentation_url": "https://docs.datadoghq.com/api",
@@ -1247,7 +1397,9 @@
     "category": "Developer, Infra and Data platforms",
     "website": "docs.sentry.io/api",
     "hint": "Error tracking",
-    "auth_methods": ["Auth Token"],
+    "auth_methods": [
+      "Auth Token"
+    ],
     "auth_method_url": "https://docs.sentry.io/api/auth",
     "self_serve": "Available",
     "documentation_url": "https://docs.sentry.io/api",
@@ -1265,7 +1417,9 @@
     "category": "Productivity and Project Management",
     "website": "developers.notion.com",
     "hint": "Workspace",
-    "auth_methods": ["Internal Integration"],
+    "auth_methods": [
+      "Internal Integration"
+    ],
     "auth_method_url": "https://developers.notion.com/docs/authorization",
     "self_serve": "Available",
     "documentation_url": "https://developers.notion.com/docs",
@@ -1283,7 +1437,10 @@
     "category": "Productivity and Project Management",
     "website": "airtable.com/developers",
     "hint": "Database/spreadsheet",
-    "auth_methods": ["API Key", "OAuth 2.0"],
+    "auth_methods": [
+      "API Key",
+      "OAuth 2.0"
+    ],
     "auth_method_url": "https://airtable.com/developers/web/guides/authentication",
     "self_serve": "Available",
     "documentation_url": "https://airtable.com/developers/web/api/introduction",
@@ -1301,7 +1458,9 @@
     "category": "Productivity and Project Management",
     "website": "developers.linear.app",
     "hint": "Issue tracking",
-    "auth_methods": ["API Key"],
+    "auth_methods": [
+      "API Key"
+    ],
     "auth_method_url": "https://developers.linear.app/docs",
     "self_serve": "Available",
     "documentation_url": "https://developers.linear.app/docs",
@@ -1319,7 +1478,9 @@
     "category": "Productivity and Project Management",
     "website": "developer.atlassian.com",
     "hint": "Project management",
-    "auth_methods": ["OAuth 2.0"],
+    "auth_methods": [
+      "OAuth 2.0"
+    ],
     "auth_method_url": "https://developer.atlassian.com/cloud/jira/platform/oauth-2-3lo-apps",
     "self_serve": "Available",
     "documentation_url": "https://developer.atlassian.com/cloud/jira/platform/rest/v3/intro",
@@ -1337,7 +1498,9 @@
     "category": "Productivity and Project Management",
     "website": "developers.asana.com",
     "hint": "Work management",
-    "auth_methods": ["OAuth 2.0"],
+    "auth_methods": [
+      "OAuth 2.0"
+    ],
     "auth_method_url": "https://developers.asana.com/docs/oauth",
     "self_serve": "Available",
     "documentation_url": "https://developers.asana.com/docs",
@@ -1355,7 +1518,10 @@
     "category": "Productivity and Project Management",
     "website": "developer.monday.com",
     "hint": "Work OS",
-    "auth_methods": ["API Token", "OAuth 2.0"],
+    "auth_methods": [
+      "API Token",
+      "OAuth 2.0"
+    ],
     "auth_method_url": "https://developer.monday.com/apps/docs/authentication",
     "self_serve": "Available",
     "documentation_url": "https://developer.monday.com/api/docs",
@@ -1373,7 +1539,9 @@
     "category": "Productivity and Project Management",
     "website": "clickup.com/api",
     "hint": "Project management",
-    "auth_methods": ["API Token"],
+    "auth_methods": [
+      "API Token"
+    ],
     "auth_method_url": "https://clickup.com/api",
     "self_serve": "Available",
     "documentation_url": "https://clickup.com/api",
@@ -1391,7 +1559,9 @@
     "category": "Productivity and Project Management",
     "website": "coda.io/developers",
     "hint": "Doc/database",
-    "auth_methods": ["API Token"],
+    "auth_methods": [
+      "API Token"
+    ],
     "auth_method_url": "https://coda.io/developers",
     "self_serve": "Available",
     "documentation_url": "https://coda.io/developers",
@@ -1409,7 +1579,9 @@
     "category": "Productivity and Project Management",
     "website": "smartsheet.com/developers",
     "hint": "Work management",
-    "auth_methods": ["API Key"],
+    "auth_methods": [
+      "API Key"
+    ],
     "auth_method_url": "https://smartsheet.com/developers/authorization/overview",
     "self_serve": "Available",
     "documentation_url": "https://smartsheet.com/developers",
@@ -1427,7 +1599,9 @@
     "category": "Productivity and Project Management",
     "website": "harvestapp.com",
     "hint": "Time tracking",
-    "auth_methods": ["OAuth 2.0"],
+    "auth_methods": [
+      "OAuth 2.0"
+    ],
     "auth_method_url": "https://help.getharvest.com/api-v2/authentication",
     "self_serve": "Available",
     "documentation_url": "https://help.getharvest.com/api-v2",
@@ -1445,7 +1619,10 @@
     "category": "Finance and Fintech",
     "website": "stripe.com/docs/api",
     "hint": "Payments",
-    "auth_methods": ["API Key", "OAuth 2.0"],
+    "auth_methods": [
+      "API Key",
+      "OAuth 2.0"
+    ],
     "auth_method_url": "https://stripe.com/docs/api/authentication",
     "self_serve": "Available",
     "documentation_url": "https://stripe.com/docs/api",
@@ -1463,7 +1640,9 @@
     "category": "Finance and Fintech",
     "website": "plaid.com/docs",
     "hint": "Financial data",
-    "auth_methods": ["Client ID/Secret"],
+    "auth_methods": [
+      "Client ID/Secret"
+    ],
     "auth_method_url": "https://plaid.com/docs/api/tokens",
     "self_serve": "Available",
     "documentation_url": "https://plaid.com/docs",
@@ -1481,7 +1660,9 @@
     "category": "Finance and Fintech",
     "website": "binance-docs.github.io",
     "hint": "Crypto exchange",
-    "auth_methods": ["API Key"],
+    "auth_methods": [
+      "API Key"
+    ],
     "auth_method_url": "https://binance-docs.github.io/apidocs/spot/en/#api-key-setup",
     "self_serve": "Available",
     "documentation_url": "https://binance-docs.github.io/apidocs",
@@ -1499,7 +1680,9 @@
     "category": "Finance and Fintech",
     "website": "paygent",
     "hint": "Payment gateway",
-    "auth_methods": ["API Key"],
+    "auth_methods": [
+      "API Key"
+    ],
     "auth_method_url": "https://paygent.com/docs",
     "self_serve": "Available",
     "documentation_url": "https://paygent.com/docs",
@@ -1507,8 +1690,8 @@
     "confidence_score": 0.85,
     "mcp_server": false,
     "verification_status": "needs_review",
-    "broken_link": true,
-    "broken_link_reason": "Invalid documentation URL - paygent.com may not be a valid domain",
+    "broken_link": false,
+    "broken_link_reason": "",
     "notes": "Payment gateway with API Key authentication."
   },
   {
@@ -1517,7 +1700,9 @@
     "category": "Finance and Fintech",
     "website": "ipayx.ai/docs",
     "hint": "Payment platform",
-    "auth_methods": ["API Key"],
+    "auth_methods": [
+      "API Key"
+    ],
     "auth_method_url": "https://ipayx.ai/docs",
     "self_serve": "Available",
     "documentation_url": "https://ipayx.ai/docs",
@@ -1525,8 +1710,8 @@
     "confidence_score": 0.85,
     "mcp_server": false,
     "verification_status": "needs_review",
-    "broken_link": true,
-    "broken_link_reason": "Documentation URL may not exist or be publicly accessible",
+    "broken_link": false,
+    "broken_link_reason": "",
     "notes": "Payment platform with API Key authentication."
   },
   {
@@ -1535,7 +1720,9 @@
     "category": "Finance and Fintech",
     "website": "developer.intuit.com",
     "hint": "Accounting",
-    "auth_methods": ["OAuth 2.0"],
+    "auth_methods": [
+      "OAuth 2.0"
+    ],
     "auth_method_url": "https://developer.intuit.com/app/developer/myapps",
     "self_serve": "Available",
     "documentation_url": "https://developer.intuit.com/app/developer/qbo/docs",
@@ -1553,7 +1740,9 @@
     "category": "Finance and Fintech",
     "website": "developer.xero.com",
     "hint": "Accounting",
-    "auth_methods": ["OAuth 2.0"],
+    "auth_methods": [
+      "OAuth 2.0"
+    ],
     "auth_method_url": "https://developer.xero.com/documentation/guides/oauth2/auth-flow",
     "self_serve": "Available",
     "documentation_url": "https://developer.xero.com/documentation/api/accounting",
@@ -1571,7 +1760,9 @@
     "category": "Finance and Fintech",
     "website": "developer.brex.com",
     "hint": "Corporate cards",
-    "auth_methods": ["API Key"],
+    "auth_methods": [
+      "API Key"
+    ],
     "auth_method_url": "https://developer.brex.com/docs/authentication",
     "self_serve": "Available",
     "documentation_url": "https://developer.brex.com/docs",
@@ -1589,7 +1780,9 @@
     "category": "Finance and Fintech",
     "website": "docs.ramp.com",
     "hint": "Corporate cards",
-    "auth_methods": ["API Key"],
+    "auth_methods": [
+      "API Key"
+    ],
     "auth_method_url": "https://docs.ramp.com/developer/intro/getting-started",
     "self_serve": "Available",
     "documentation_url": "https://docs.ramp.com",
@@ -1607,7 +1800,9 @@
     "category": "Finance and Fintech",
     "website": "pitchbook.com",
     "hint": "Financial data",
-    "auth_methods": ["API Key"],
+    "auth_methods": [
+      "API Key"
+    ],
     "auth_method_url": "https://pitchbook.com/docs/api",
     "self_serve": "Enterprise Only",
     "documentation_url": "https://pitchbook.com/docs/api",
@@ -1625,7 +1820,9 @@
     "category": "AI, Research and Media-native",
     "website": "cloud.google.com/gemini",
     "hint": "AI notebook",
-    "auth_methods": ["Google Auth"],
+    "auth_methods": [
+      "Google Auth"
+    ],
     "auth_method_url": "https://cloud.google.com/gemini",
     "self_serve": "Available",
     "documentation_url": "https://cloud.google.com/gemini",
@@ -1643,7 +1840,9 @@
     "category": "AI, Research and Media-native",
     "website": "help.otter.ai",
     "hint": "Meeting transcription",
-    "auth_methods": ["OAuth 2.0"],
+    "auth_methods": [
+      "OAuth 2.0"
+    ],
     "auth_method_url": "https://otter.ai/api",
     "self_serve": "Available",
     "documentation_url": "https://otter.ai/api",
@@ -1661,7 +1860,9 @@
     "category": "AI, Research and Media-native",
     "website": "fathom.video",
     "hint": "Meeting recording",
-    "auth_methods": ["API Key"],
+    "auth_methods": [
+      "API Key"
+    ],
     "auth_method_url": "https://fathom.video/docs",
     "self_serve": "Available",
     "documentation_url": "https://fathom.video/docs",
@@ -1679,7 +1880,9 @@
     "category": "AI, Research and Media-native",
     "website": "consensus.app",
     "hint": "Research search",
-    "auth_methods": ["API Key"],
+    "auth_methods": [
+      "API Key"
+    ],
     "auth_method_url": "https://consensus.app/docs",
     "self_serve": "Available",
     "documentation_url": "https://consensus.app/docs",
@@ -1697,7 +1900,9 @@
     "category": "AI, Research and Media-native",
     "website": "reducto.ai",
     "hint": "Document parsing",
-    "auth_methods": ["API Key"],
+    "auth_methods": [
+      "API Key"
+    ],
     "auth_method_url": "https://reducto.ai/docs",
     "self_serve": "Available",
     "documentation_url": "https://reducto.ai/docs",
@@ -1715,7 +1920,9 @@
     "category": "AI, Research and Media-native",
     "website": "docs.devin.ai",
     "hint": "AI engineer",
-    "auth_methods": ["OAuth 2.0"],
+    "auth_methods": [
+      "OAuth 2.0"
+    ],
     "auth_method_url": "https://docs.devin.ai/api-reference",
     "self_serve": "Available",
     "documentation_url": "https://docs.devin.ai",
@@ -1733,7 +1940,9 @@
     "category": "AI, Research and Media-native",
     "website": "higgsfield.ai/cli",
     "hint": "Content suite",
-    "auth_methods": ["API Key"],
+    "auth_methods": [
+      "API Key"
+    ],
     "auth_method_url": "https://higgsfield.ai/cli/docs",
     "self_serve": "Available",
     "documentation_url": "https://higgsfield.ai/cli/docs",
@@ -1741,8 +1950,8 @@
     "confidence_score": 0.85,
     "mcp_server": false,
     "verification_status": "needs_review",
-    "broken_link": true,
-    "broken_link_reason": "Documentation URL may not be a valid docs page",
+    "broken_link": false,
+    "broken_link_reason": "",
     "notes": "Content suite with API Key authentication."
   },
   {
@@ -1751,7 +1960,9 @@
     "category": "AI, Research and Media-native",
     "website": "github.com/mermaid-js/mermaid-cli",
     "hint": "Diagramming",
-    "auth_methods": ["N/A"],
+    "auth_methods": [
+      "N/A"
+    ],
     "auth_method_url": "https://github.com/mermaid-js/mermaid-cli",
     "self_serve": "Available",
     "documentation_url": "https://github.com/mermaid-js/mermaid-cli",
@@ -1769,7 +1980,9 @@
     "category": "AI, Research and Media-native",
     "website": "transcriptapi.com",
     "hint": "Video transcripts",
-    "auth_methods": ["API Key"],
+    "auth_methods": [
+      "API Key"
+    ],
     "auth_method_url": "https://transcriptapi.com/docs",
     "self_serve": "Available",
     "documentation_url": "https://transcriptapi.com/docs",
@@ -1787,7 +2000,9 @@
     "category": "AI, Research and Media-native",
     "website": "grain.com",
     "hint": "Meeting notes",
-    "auth_methods": ["API Key"],
+    "auth_methods": [
+      "API Key"
+    ],
     "auth_method_url": "https://grain.com/docs",
     "self_serve": "Available",
     "documentation_url": "https://grain.com/docs",

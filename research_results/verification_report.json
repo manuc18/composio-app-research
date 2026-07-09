@@ -1,0 +1,22 @@
+{
+  "apps": 5,
+  "verified": 0,
+  "needs_review": 0,
+  "conflicts": 0,
+  "unknown": 5,
+  "average_confidence": 0.5119999999999999,
+  "confidence_threshold": 0.9,
+  "manual_reviewed_count": 2,
+  "mcp_corrected_count": 5,
+  "category_verification": {
+    "CRM and Sales": {
+      "total": 5,
+      "verified": 0
+    }
+  },
+  "verification_methods": {
+    "research_agent": "Automated web scraping and extraction",
+    "verifier_agent": "Evidence-based verification and scoring",
+    "human_review": "Manual queue for edge cases"
+  }
+}

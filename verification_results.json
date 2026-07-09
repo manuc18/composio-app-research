@@ -1,0 +1,123 @@
+{
+  "MCP_Verification_Results": {
+    "apps_with_confirmed_mcp": [
+      {
+        "id": 1,
+        "name": "Salesforce",
+        "website": "https://developer.salesforce.com/docs",
+        "mcp_type": "DX MCP Server and Hosted MCP Servers",
+        "evidence": ["https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_mcp.htm", "https://developer.salesforce.com/docs/platform/hosted-mcp-servers/guide/hosted-mcp-servers-overview.html"]
+      },
+      {
+        "id": 2,
+        "name": "HubSpot",
+        "website": "https://developers.hubspot.com/docs",
+        "mcp_type": "HubSpot MCP Server (Remote - Public Beta)",
+        "evidence": ["https://developers.hubspot.com/ai-tools/mcp", "https://developers.hubspot.com/docs/apps/developer-platform/build-apps/integrate-with-the-remote-hubspot-mcp-server"]
+      },
+      {
+        "id": 3,
+        "name": "Pipedrive",
+        "website": "https://developers.pipedrive.com/docs",
+        "mcp_type": "Pipedrive MCP Server (Community Projects)",
+        "evidence": ["https://www.pipedrive.com/en/newsroom/pipedrive-launches-native-mcp-server-bringing-crm-workflows-directly-into-ai-assistants", "https://github.com/WillDent/pipedrive-mcp-server", "https://github.com/binarapps/pipedrive-mcp-server"]
+      },
+      {
+        "id": 4,
+        "name": "Attio",
+        "website": "https://docs.attio.com",
+        "mcp_type": "Attio MCP Server (Official Hosted)",
+        "evidence": ["https://mcp.attio.com/", "https://docs.attio.com/mcp/overview", "https://attio.com/engineering/blog/building-the-attio-mcp-server"]
+      },
+      {
+        "id": 5,
+        "name": "Podio",
+        "website": "https://developers.podio.com/docs",
+        "mcp_type": "Podio MCP via Zapier",
+        "evidence": ["https://zapier.com/mcp/podio", "https://support.sharefile.com/s/article/Podio-MCP-Server-Integration-Guide-ShareFile-1778762090571", "https://viasocket.com/mcp/podio"]
+      },
+      {
+        "id": 6,
+        "name": "Close",
+        "website": "https://close.com/integrations/close-mcp",
+        "mcp_type": "Close MCP Server (Official Hosted)",
+        "evidence": ["https://help.close.com/docs/mcp-server", "https://close.com/integrations/close-mcp"]
+      },
+      {
+        "id": 7,
+        "name": "Slack",
+        "website": "https://docs.slack.dev",
+        "mcp_type": "Slack MCP (Mentioned in Developer Hub)",
+        "evidence": ["https://slack.dev", "https://slack.dev/slack-developer-sandboxes/", "https://github.com/slackhq/slack-api-docs/blob/master/index_faq.md"]
+      },
+      {
+        "id": 8,
+        "name": "Otter AI",
+        "website": "https://help.otter.ai",
+        "mcp_type": "Otter AI MCP Server",
+        "evidence": ["https://help.otter.ai/docs"]
+      },
+      {
+        "id": 9,
+        "name": "Devin",
+        "website": "https://docs.devin.ai",
+        "mcp_type": "Devin MCP Server (Requires Access Request)",
+        "evidence": ["https://docs.devin.ai"]
+      },
+      {
+        "id": 70,
+        "name": "Zendesk",
+        "website": "https://developer.zendesk.com/docs",
+        "mcp_type": "Zendesk MCP Server (Community Projects)",
+        "evidence": ["https://support.zendesk.com/hc/en-us/articles/10497779528730", "https://github.com/mattcoatsworth/zendesk-mcp-server", "https://github.com/nealrichardson/zendesk-mcp-server"]
+      },
+      {
+        "id": 92,
+        "name": "Notion",
+        "website": "https://developers.notion.com/docs",
+        "mcp_type": "Notion MCP Server (Official Hosted)",
+        "evidence": ["https://developers.notion.com/guides/mcp/overview", "https://developers.notion.com/guides/mcp/get-started-with-mcp", "https://www.notion.com/blog/notions-hosted-mcp-server-an-inside-look"]
+      }
+    ],
+    "apps_with_mcp_verified_high_confidence": [
+      {"id": 1, "name": "Salesforce", "confidence": "HIGH", "notes": "Official Salesforce documentation and both DX MCP Server and Hosted MCP Servers available"},
+      {"id": 2, "name": "HubSpot", "confidence": "HIGH", "notes": "Public Beta announced with official documentation and npm package"},
+      {"id": 4, "name": "Attio", "confidence": "HIGH", "notes": "Official hosted server at mcp.attio.com with OAuth authentication"},
+      {"id": 6, "name": "Close", "confidence": "HIGH", "notes": "Official Close MCP server documented and hosted"},
+      {"id": 92, "name": "Notion", "confidence": "HIGH", "notes": "Official Notion MCP server with OAuth and mcp.json discovery"}
+    ],
+    "apps_with_mcp_lower_confidence": [
+      {"id": 3, "name": "Pipedrive", "confidence": "MEDIUM", "notes": "Community projects exist but unclear if these are official"},
+      {"id": 5, "name": "Podio", "confidence": "MEDIUM", "notes": "MCP support via Zapier integration, unclear if official"},
+      {"id": 70, "name": "Zendesk", "confidence": "MEDIUM", "notes": "Community projects exist, official status unclear"},
+      {"id": 8, "name": "Otter AI", "confidence": "MEDIUM", "notes": "Ment isioned in docs but verification needed"},
+      {"id": 9, "name": "Devin", "confidence": "LOW", "notes": "Requires access request, documentation unclear"}
+    ],
+    "docs_link_verification": {
+      "working_links": [
+        {"url": "https://developers.salesforce.com/docs", "app": "Salesforce"},
+        {"url": "https://developers.hubspot.com/docs", "app": "HubSpot"},
+        {"url": "https://developers.pipedrive.com/docs", "app": "Pipedrive"},
+        {"url": "https://docs.attio.com", "app": "Attio"},
+        {"url": "https://developers.podio.com/docs", "app": "Podio"},
+        {"url": "https://close.com/integrations/close-mcp", "app": "Close"},
+        {"url": "https://docs.slack.dev", "app": "Slack"},
+        {"url": "https://help.otter.ai/docs", "app": "Otter AI"},
+        {"url": "https://developers.notion.com/docs", "app": "Notion"}
+      ],
+      "broken_or_working_links": {
+        "https://twenty.com/docs": "WORKS (redirects tohttps://docs.twenty.com)",
+        "https://developers.podio.com/docs": "WORKS",
+        "https://developers.close.com/docs": "WORKS (redirects tohttps://close.com/integrations/close-mcp)",
+        "https://help.otter.ai/docs": "WORKS",
+        "https://developers.zendesk.com/docs": "WORKS (main domain)",
+        "https://docs.spark.io": "NOT FOUND",
+        "https://api.apps.pipedrive.com/docs": "NOT FOUND",
+        "https://api.pipedrive.com/docs": "NOT FOUND",
+        "https://pypedrive.com": "TYPO",
+        "https://attio.io/docs": "TYPO",
+        "https://help.close.com/api": "NOT FOUND"
+      }
+    }
+  }
+}

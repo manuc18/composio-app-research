@@ -18,7 +18,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Enterprise CRM with OAuth, API available for all editions."
+    "notes": "Enterprise CRM with OAuth, API available for all editions.",
+    "composio_available": true
   },
   {
     "id": 2,
@@ -38,7 +39,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Comprehensive CRM platform with well-documented OAuth 2.0 API."
+    "notes": "Comprehensive CRM platform with well-documented OAuth 2.0 API.",
+    "composio_available": true
   },
   {
     "id": 3,
@@ -59,7 +61,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Sales-focused CRM with both API Key and OAuth 2.0 support."
+    "notes": "Sales-focused CRM with both API Key and OAuth 2.0 support.",
+    "composio_available": true
   },
   {
     "id": 4,
@@ -79,7 +82,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Modern CRM with OAuth 2.0 API and real-time data sync."
+    "notes": "Modern CRM with OAuth 2.0 API and real-time data sync.",
+    "composio_available": true
   },
   {
     "id": 5,
@@ -99,7 +103,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Open-source CRM with GraphQL API and OAuth 2.0 support."
+    "notes": "Open-source CRM with GraphQL API and OAuth 2.0 support.",
+    "composio_available": false
   },
   {
     "id": 6,
@@ -120,7 +125,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Flexible work management platform with API Key and OAuth 2.0."
+    "notes": "Flexible work management platform with API Key and OAuth 2.0.",
+    "composio_available": false
   },
   {
     "id": 7,
@@ -140,7 +146,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Zoho ecosystem CRM with OAuth 2.0 and extensive API."
+    "notes": "Zoho ecosystem CRM with OAuth 2.0 and extensive API.",
+    "composio_available": false
   },
   {
     "id": 8,
@@ -161,7 +168,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Sales CRM with both API Key and OAuth 2.0 support."
+    "notes": "Sales CRM with both API Key and OAuth 2.0 support.",
+    "composio_available": true
   },
   {
     "id": 9,
@@ -182,7 +190,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Google-integrated CRM with API Key and OAuth 2.0 support."
+    "notes": "Google-integrated CRM with API Key and OAuth 2.0 support.",
+    "composio_available": false
   },
   {
     "id": 10,
@@ -202,7 +211,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Enterprise deal management platform with API Key authentication."
+    "notes": "Enterprise deal management platform with API Key authentication.",
+    "composio_available": false
   },
   {
     "id": 11,
@@ -223,7 +233,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Leading customer service platform with API Token and OAuth 2.0."
+    "notes": "Leading customer service platform with API Token and OAuth 2.0.",
+    "composio_available": true
   },
   {
     "id": 12,
@@ -243,7 +254,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Customer messaging platform with OAuth 2.0 API."
+    "notes": "Customer messaging platform with OAuth 2.0 API.",
+    "composio_available": true
   },
   {
     "id": 13,
@@ -263,7 +275,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Helpdesk platform with API Key authentication."
+    "notes": "Helpdesk platform with API Key authentication.",
+    "composio_available": true
   },
   {
     "id": 14,
@@ -283,7 +296,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Shared inbox platform with OAuth 2.0 API."
+    "notes": "Shared inbox platform with OAuth 2.0 API.",
+    "composio_available": false
   },
   {
     "id": 15,
@@ -303,7 +317,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "B2B support platform with OAuth 2.0 API."
+    "notes": "B2B support platform with OAuth 2.0 API.",
+    "composio_available": false
   },
   {
     "id": 16,
@@ -323,7 +338,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Live chat and helpdesk platform with API Key authentication."
+    "notes": "Live chat and helpdesk platform with API Key authentication.",
+    "composio_available": false
   },
   {
     "id": 17,
@@ -344,7 +360,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Support platform with API Key and OAuth 2.0 support."
+    "notes": "Support platform with API Key and OAuth 2.0 support.",
+    "composio_available": false
   },
   {
     "id": 18,
@@ -364,7 +381,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Customer support platform with OAuth 2.0 API."
+    "notes": "Customer support platform with OAuth 2.0 API.",
+    "composio_available": false
   },
   {
     "id": 19,
@@ -384,7 +402,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Ecommerce-focused customer support with OAuth 2.0 API."
+    "notes": "Ecommerce-focused customer support with OAuth 2.0 API.",
+    "composio_available": false
   },
   {
     "id": 20,
@@ -404,7 +423,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Customer service platform with OAuth 2.0 API."
+    "notes": "Customer service platform with OAuth 2.0 API.",
+    "composio_available": false
   },
   {
     "id": 21,
@@ -424,7 +444,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Team messaging platform with extensive OAuth 2.0 API."
+    "notes": "Team messaging platform with extensive OAuth 2.0 API.",
+    "composio_available": true
   },
   {
     "id": 22,
@@ -445,7 +466,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Communications API with API Key and Auth Token authentication."
+    "notes": "Communications API with API Key and Auth Token authentication.",
+    "composio_available": false
   },
   {
     "id": 23,
@@ -465,7 +487,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Zoho team chat with OAuth 2.0 API."
+    "notes": "Zoho team chat with OAuth 2.0 API.",
+    "composio_available": false
   },
   {
     "id": 24,
@@ -485,7 +508,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Enterprise messaging platform with App ID/Secret authentication."
+    "notes": "Enterprise messaging platform with App ID/Secret authentication.",
+    "composio_available": false
   },
   {
     "id": 25,
@@ -505,7 +529,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Team chat platform with API Key authentication."
+    "notes": "Team chat platform with API Key authentication.",
+    "composio_available": false
   },
   {
     "id": 26,
@@ -525,7 +550,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Community chat platform with Bot Token authentication."
+    "notes": "Community chat platform with Bot Token authentication.",
+    "composio_available": false
   },
   {
     "id": 27,
@@ -545,7 +571,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Messaging platform with Bot Token API for bots."
+    "notes": "Messaging platform with Bot Token API for bots.",
+    "composio_available": false
   },
   {
     "id": 28,
@@ -565,7 +592,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "WhatsApp Business API with API Token authentication."
+    "notes": "WhatsApp Business API with API Token authentication.",
+    "composio_available": false
   },
   {
     "id": 29,
@@ -586,7 +614,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Cloud phone system with API Key and OAuth 2.0 support."
+    "notes": "Cloud phone system with API Key and OAuth 2.0 support.",
+    "composio_available": false
   },
   {
     "id": 30,
@@ -606,7 +635,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Communications API with API Key authentication."
+    "notes": "Communications API with API Key authentication.",
+    "composio_available": false
   },
   {
     "id": 31,
@@ -626,7 +656,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Google advertising platform with OAuth 2.0 API."
+    "notes": "Google advertising platform with OAuth 2.0 API.",
+    "composio_available": false
   },
   {
     "id": 32,
@@ -646,7 +677,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Facebook/Instagram advertising with OAuth 2.0 Marketing API."
+    "notes": "Facebook/Instagram advertising with OAuth 2.0 Marketing API.",
+    "composio_available": false
   },
   {
     "id": 33,
@@ -666,7 +698,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "LinkedIn advertising platform with OAuth 2.0 Marketing API."
+    "notes": "LinkedIn advertising platform with OAuth 2.0 Marketing API.",
+    "composio_available": false
   },
   {
     "id": 34,
@@ -686,7 +719,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Marketing automation platform with API Key authentication."
+    "notes": "Marketing automation platform with API Key authentication.",
+    "composio_available": false
   },
   {
     "id": 35,
@@ -706,7 +740,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Email marketing platform with API Key authentication."
+    "notes": "Email marketing platform with API Key authentication.",
+    "composio_available": true
   },
   {
     "id": 36,
@@ -727,7 +762,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Email/SMS marketing platform with API Key and Private Token."
+    "notes": "Email/SMS marketing platform with API Key and Private Token.",
+    "composio_available": false
   },
   {
     "id": 37,
@@ -747,7 +783,8 @@
     "verification_status": "needs_review",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Funnel builder with API Key authentication."
+    "notes": "Funnel builder with API Key authentication.",
+    "composio_available": false
   },
   {
     "id": 38,
@@ -767,7 +804,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Visual discovery platform with OAuth 2.0 API."
+    "notes": "Visual discovery platform with OAuth 2.0 API.",
+    "composio_available": false
   },
   {
     "id": 39,
@@ -787,7 +825,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Meta text app with OAuth 2.0 API."
+    "notes": "Meta text app with OAuth 2.0 API.",
+    "composio_available": false
   },
   {
     "id": 40,
@@ -807,7 +846,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Email API with API Key authentication."
+    "notes": "Email API with API Key authentication.",
+    "composio_available": false
   },
   {
     "id": 41,
@@ -828,7 +868,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Ecommerce platform with OAuth 2.0 and Admin API."
+    "notes": "Ecommerce platform with OAuth 2.0 and Admin API.",
+    "composio_available": true
   },
   {
     "id": 42,
@@ -849,7 +890,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "WordPress ecommerce with API Key and OAuth 2.0 REST API."
+    "notes": "WordPress ecommerce with API Key and OAuth 2.0 REST API.",
+    "composio_available": false
   },
   {
     "id": 43,
@@ -869,7 +911,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Ecommerce platform with OAuth 2.0 API."
+    "notes": "Ecommerce platform with OAuth 2.0 API.",
+    "composio_available": false
   },
   {
     "id": 44,
@@ -889,7 +932,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Enterprise ecommerce platform with OAuth 2.0 API."
+    "notes": "Enterprise ecommerce platform with OAuth 2.0 API.",
+    "composio_available": false
   },
   {
     "id": 45,
@@ -909,7 +953,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Adobe Commerce platform with API Key authentication."
+    "notes": "Adobe Commerce platform with API Key authentication.",
+    "composio_available": false
   },
   {
     "id": 46,
@@ -929,7 +974,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Website builder with API Key authentication."
+    "notes": "Website builder with API Key authentication.",
+    "composio_available": false
   },
   {
     "id": 47,
@@ -949,7 +995,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Ecommerce widgets with API Key authentication."
+    "notes": "Ecommerce widgets with API Key authentication.",
+    "composio_available": false
   },
   {
     "id": 48,
@@ -969,7 +1016,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Digital products marketplace with API Key authentication."
+    "notes": "Digital products marketplace with API Key authentication.",
+    "composio_available": false
   },
   {
     "id": 49,
@@ -989,7 +1037,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Amazon marketplace API with OAuth 2.0 authentication."
+    "notes": "Amazon marketplace API with OAuth 2.0 authentication.",
+    "composio_available": false
   },
   {
     "id": 50,
@@ -1009,7 +1058,8 @@
     "verification_status": "needs_review",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Fan commerce platform with API Key authentication."
+    "notes": "Fan commerce platform with API Key authentication.",
+    "composio_available": false
   },
   {
     "id": 51,
@@ -1029,7 +1079,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "SEO data API with API Key authentication."
+    "notes": "SEO data API with API Key authentication.",
+    "composio_available": false
   },
   {
     "id": 52,
@@ -1049,7 +1100,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "SEO platform with API Key authentication."
+    "notes": "SEO platform with API Key authentication.",
+    "composio_available": false
   },
   {
     "id": 53,
@@ -1069,7 +1121,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "SEO tools with API Key authentication."
+    "notes": "SEO tools with API Key authentication.",
+    "composio_available": false
   },
   {
     "id": 54,
@@ -1089,7 +1142,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Web scraping API with API Key authentication."
+    "notes": "Web scraping API with API Key authentication.",
+    "composio_available": false
   },
   {
     "id": 55,
@@ -1109,7 +1163,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Web scraping platform with API Key authentication."
+    "notes": "Web scraping platform with API Key authentication.",
+    "composio_available": false
   },
   {
     "id": 56,
@@ -1129,7 +1184,8 @@
     "verification_status": "needs_review",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Web crawling API with API Key authentication."
+    "notes": "Web crawling API with API Key authentication.",
+    "composio_available": true
   },
   {
     "id": 57,
@@ -1149,7 +1205,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Data collection platform with API Key authentication."
+    "notes": "Data collection platform with API Key authentication.",
+    "composio_available": false
   },
   {
     "id": 58,
@@ -1169,7 +1226,8 @@
     "verification_status": "needs_review",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Open-source username search tool, no API available."
+    "notes": "Open-source username search tool, no API available.",
+    "composio_available": false
   },
   {
     "id": 59,
@@ -1189,7 +1247,8 @@
     "verification_status": "needs_review",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Company intelligence platform with API Key authentication."
+    "notes": "Company intelligence platform with API Key authentication.",
+    "composio_available": false
   },
   {
     "id": 60,
@@ -1209,7 +1268,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Data enrichment platform with API Key authentication."
+    "notes": "Data enrichment platform with API Key authentication.",
+    "composio_available": false
   },
   {
     "id": 61,
@@ -1229,7 +1289,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Code hosting platform with OAuth 2.0 REST API."
+    "notes": "Code hosting platform with OAuth 2.0 REST API.",
+    "composio_available": true
   },
   {
     "id": 62,
@@ -1249,7 +1310,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Deployment platform with API Token authentication."
+    "notes": "Deployment platform with API Token authentication.",
+    "composio_available": false
   },
   {
     "id": 63,
@@ -1269,7 +1331,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Web deployment platform with Personal Access Token."
+    "notes": "Web deployment platform with Personal Access Token.",
+    "composio_available": false
   },
   {
     "id": 64,
@@ -1289,7 +1352,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "CDN/Edge platform with API Key authentication."
+    "notes": "CDN/Edge platform with API Key authentication.",
+    "composio_available": false
   },
   {
     "id": 65,
@@ -1309,7 +1373,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Firebase alternative with API Key authentication."
+    "notes": "Firebase alternative with API Key authentication.",
+    "composio_available": true
   },
   {
     "id": 66,
@@ -1329,7 +1394,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Graph database with HTTP Basic Auth."
+    "notes": "Graph database with HTTP Basic Auth.",
+    "composio_available": false
   },
   {
     "id": 67,
@@ -1349,7 +1415,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Data warehouse with Key Pair Auth and REST API."
+    "notes": "Data warehouse with Key Pair Auth and REST API.",
+    "composio_available": false
   },
   {
     "id": 68,
@@ -1369,7 +1436,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Cloud database with API Key authentication."
+    "notes": "Cloud database with API Key authentication.",
+    "composio_available": false
   },
   {
     "id": 69,
@@ -1389,7 +1457,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Monitoring platform with API Key authentication."
+    "notes": "Monitoring platform with API Key authentication.",
+    "composio_available": false
   },
   {
     "id": 70,
@@ -1409,7 +1478,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Error tracking platform with Auth Token authentication."
+    "notes": "Error tracking platform with Auth Token authentication.",
+    "composio_available": false
   },
   {
     "id": 71,
@@ -1429,7 +1499,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Workspace platform with Internal Integration API."
+    "notes": "Workspace platform with Internal Integration API.",
+    "composio_available": true
   },
   {
     "id": 72,
@@ -1450,7 +1521,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Database/spreadsheet with API Key and OAuth 2.0 support."
+    "notes": "Database/spreadsheet with API Key and OAuth 2.0 support.",
+    "composio_available": false
   },
   {
     "id": 73,
@@ -1470,7 +1542,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Issue tracking platform with API Key authentication."
+    "notes": "Issue tracking platform with API Key authentication.",
+    "composio_available": true
   },
   {
     "id": 74,
@@ -1490,7 +1563,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Project management platform with OAuth 2.0 API."
+    "notes": "Project management platform with OAuth 2.0 API.",
+    "composio_available": true
   },
   {
     "id": 75,
@@ -1510,7 +1584,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Work management platform with OAuth 2.0 API."
+    "notes": "Work management platform with OAuth 2.0 API.",
+    "composio_available": true
   },
   {
     "id": 76,
@@ -1531,7 +1606,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Work OS with API Token and OAuth 2.0 support."
+    "notes": "Work OS with API Token and OAuth 2.0 support.",
+    "composio_available": true
   },
   {
     "id": 77,
@@ -1551,7 +1627,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Project management platform with API Token authentication."
+    "notes": "Project management platform with API Token authentication.",
+    "composio_available": true
   },
   {
     "id": 78,
@@ -1571,7 +1648,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Doc/database platform with API Token authentication."
+    "notes": "Doc/database platform with API Token authentication.",
+    "composio_available": false
   },
   {
     "id": 79,
@@ -1591,7 +1669,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Work management platform with API Key authentication."
+    "notes": "Work management platform with API Key authentication.",
+    "composio_available": false
   },
   {
     "id": 80,
@@ -1611,7 +1690,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Time tracking platform with OAuth 2.0 API."
+    "notes": "Time tracking platform with OAuth 2.0 API.",
+    "composio_available": false
   },
   {
     "id": 81,
@@ -1632,7 +1712,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Payment platform with API Key and OAuth 2.0 support."
+    "notes": "Payment platform with API Key and OAuth 2.0 support.",
+    "composio_available": true
   },
   {
     "id": 82,
@@ -1652,7 +1733,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Financial data API with Client ID/Secret authentication."
+    "notes": "Financial data API with Client ID/Secret authentication.",
+    "composio_available": false
   },
   {
     "id": 83,
@@ -1672,7 +1754,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Crypto exchange with API Key authentication."
+    "notes": "Crypto exchange with API Key authentication.",
+    "composio_available": false
   },
   {
     "id": 84,
@@ -1692,7 +1775,8 @@
     "verification_status": "needs_review",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Payment gateway with API Key authentication."
+    "notes": "Payment gateway with API Key authentication.",
+    "composio_available": false
   },
   {
     "id": 85,
@@ -1712,7 +1796,8 @@
     "verification_status": "needs_review",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Payment platform with API Key authentication."
+    "notes": "Payment platform with API Key authentication.",
+    "composio_available": false
   },
   {
     "id": 86,
@@ -1732,7 +1817,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Accounting platform with OAuth 2.0 API."
+    "notes": "Accounting platform with OAuth 2.0 API.",
+    "composio_available": false
   },
   {
     "id": 87,
@@ -1752,7 +1838,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Accounting platform with OAuth 2.0 API."
+    "notes": "Accounting platform with OAuth 2.0 API.",
+    "composio_available": false
   },
   {
     "id": 88,
@@ -1772,7 +1859,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Corporate cards platform with API Key authentication."
+    "notes": "Corporate cards platform with API Key authentication.",
+    "composio_available": false
   },
   {
     "id": 89,
@@ -1792,7 +1880,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Corporate cards platform with API Key authentication."
+    "notes": "Corporate cards platform with API Key authentication.",
+    "composio_available": false
   },
   {
     "id": 90,
@@ -1812,7 +1901,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Financial data platform with API Key authentication."
+    "notes": "Financial data platform with API Key authentication.",
+    "composio_available": false
   },
   {
     "id": 91,
@@ -1832,7 +1922,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "AI notebook powered by Google Gemini with Google Auth."
+    "notes": "AI notebook powered by Google Gemini with Google Auth.",
+    "composio_available": false
   },
   {
     "id": 92,
@@ -1852,7 +1943,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Meeting transcription platform with OAuth 2.0 API."
+    "notes": "Meeting transcription platform with OAuth 2.0 API.",
+    "composio_available": false
   },
   {
     "id": 93,
@@ -1872,7 +1964,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Meeting recording platform with API Key authentication."
+    "notes": "Meeting recording platform with API Key authentication.",
+    "composio_available": false
   },
   {
     "id": 94,
@@ -1892,7 +1985,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Research search engine with API Key authentication."
+    "notes": "Research search engine with API Key authentication.",
+    "composio_available": false
   },
   {
     "id": 95,
@@ -1912,7 +2006,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Document parsing platform with API Key authentication."
+    "notes": "Document parsing platform with API Key authentication.",
+    "composio_available": false
   },
   {
     "id": 96,
@@ -1932,7 +2027,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "AI engineer platform with OAuth 2.0 API."
+    "notes": "AI engineer platform with OAuth 2.0 API.",
+    "composio_available": false
   },
   {
     "id": 97,
@@ -1952,7 +2048,8 @@
     "verification_status": "needs_review",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Content suite with API Key authentication."
+    "notes": "Content suite with API Key authentication.",
+    "composio_available": false
   },
   {
     "id": 98,
@@ -1972,7 +2069,8 @@
     "verification_status": "needs_review",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Open-source diagramming CLI tool, not an API."
+    "notes": "Open-source diagramming CLI tool, not an API.",
+    "composio_available": false
   },
   {
     "id": 99,
@@ -1992,7 +2090,8 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Video transcripts API with API Key authentication."
+    "notes": "Video transcripts API with API Key authentication.",
+    "composio_available": false
   },
   {
     "id": 100,
@@ -2012,6 +2111,7 @@
     "verification_status": "verified",
     "broken_link": false,
     "broken_link_reason": "",
-    "notes": "Meeting notes platform with API Key authentication."
+    "notes": "Meeting notes platform with API Key authentication.",
+    "composio_available": false
   }
 ]
